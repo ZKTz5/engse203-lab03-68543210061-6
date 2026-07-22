@@ -38,10 +38,7 @@ npm run build
 
 ## โครงสร้างไฟล์
 
-```text
 .
-├── docs/
-├── node_modules/
 ├── src/
 │   ├── main.js
 │   └── style.css
@@ -69,6 +66,8 @@ npm run build
 ### 4. หน้าเว็บทดสอบ Validation
 ![Error](img/Error.png)
 
+### 5. หน้าเว็บ Submitted
+![Submitted](img/Submitted.png)
 ## ปัญหาที่พบและวิธีแก้ไข
 
 | ปัญหาที่พบ | สาเหตุ / วิธีแก้ไข |
